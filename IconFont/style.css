@@ -1,0 +1,55 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?ow1za3');
+	src:url('fonts/icomoon.eot?#iefixow1za3') format('embedded-opentype'),
+		url('fonts/icomoon.woff?ow1za3') format('woff'),
+		url('fonts/icomoon.ttf?ow1za3') format('truetype'),
+		url('fonts/icomoon.svg?ow1za3#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pacman:before {
+	content: "\e600";
+}
+.icon-play:before {
+	content: "\e601";
+}
+.icon-credit:before {
+	content: "\e602";
+}
+.icon-coin:before {
+	content: "\e603";
+}
+.icon-mobile:before {
+	content: "\e604";
+}
+.icon-mobile2:before {
+	content: "\e605";
+}
+.icon-tablet:before {
+	content: "\e606";
+}
+.icon-screen:before {
+	content: "\e607";
+}
+.icon-download:before {
+	content: "\e608";
+}
+.icon-MO-icon:before {
+	content: "\e609";
+}
